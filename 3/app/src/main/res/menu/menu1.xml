@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemRed"
+        android:title="옵션 메뉴 1번">
+    </item>
+    <item
+        android:id="@+id/subRotate"
+        android:title="옵션 메뉴 2번">
+    </item>
+</menu>
